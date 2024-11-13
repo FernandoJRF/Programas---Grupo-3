@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Julieta",
+        "last_name": "Martinez",
+        "age": 21,
+        "email": "MartinezJul4@gmail.com",
+        "hobbies": [
+            "sing in the bathroom",
+            "play with her dog",
+            "watch social media"
+        ],
+        "address": {
+            "street": "Calle del Universo",
+            "city": "Valladolid",
+            "codigo_postal": "47011"
+        }
+    },
+    {
+        "name": "Ramon",
+        "last_name": "Guttierrez",
+        "age": 34,
+        "email": "Ramon02@gmail.com",
+        "hobbies": [
+            "reading",
+            "playing soccer",
+            "traveling"
+        ],
+        "address": {
+            "street": "Avenida de la libertad",
+            "city": "Madrid",
+            "codigo_postal": "28001"
+        }
+    },
+    {
+        "name": "Pedro",
+        "last_name": "Alvarado",
+        "age": 34,
+        "email": "PedroAlvarado12@gmail.com",
+        "PasaTiempos": [
+            "Fotografia ",
+            "Ciclismo",
+            "Leer"
+        ],
+        "address": {
+            "street": "Calle de la Paz",
+            "city": "Barcelona",
+            "codigo_postal": "08002"
+        }
+    },
+    {
+        "name": "Sofia",
+        "last_name": "Hernandez",
+        "age": "21",
+        "email": "SofiaH21@gmail.com",
+        "PasaTiempos": [
+            "Cocina Gourmet",
+            "Lectura de Novelas"
+        ],
+        "address": {
+            "street": "Calle 50",
+            "city": "Panama City",
+            "codigo_postal": "0830"
+        }
+    },
+    {
+        "name": "Ana",
+        "last_name": "Martinez",
+        "age": "72",
+        "email": "Anama03@gmail.com",
+        "PasaTiempos": [
+            "Cocina Gourmet",
+            "Lectura de Novelas"
+        ],
+        "address": {
+            "street": "Calle 50",
+            "city": "Panama City",
+            "codigo_postal": "0830"
+        }
+    },
+    {
+        "name": "Ana",
+        "last_name": "Martinez",
+        "age": "72",
+        "email": "Anama03@gmail.com",
+        "PasaTiempos": [
+            "Cocina Gourmet",
+            "Lectura de Novelas"
+        ],
+        "address": {
+            "street": "Calle 50",
+            "city": "Panama City",
+            "codigo_postal": "0830"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+{
+    "productos": [
+        {
+            "nombre": "Detergente Liquido",
+            "descripcion": "Detergente para ropa que elimina manchas dificiles.",
+            "precio": 5.99,
+            "disponible": true
+        },
+        {
+            "nombre": "Desinfectante Multiusos",
+            "descripcion": "Limpiador multiusos con aroma a limon, ideal para desinfectar superficies.",
+            "precio": 3.50,
+            "disponible": true
+        },
+        {
+            "nombre": "Limpiavidrios",
+            "descripcion": "Limpiador de cristales para un acabado sin marcas y brillo intenso.",
+            "precio": 2.75,
+            "disponible": false
+        },
+        {
+            "nombre": "Desengrasante",
+            "descripcion": "Producto para eliminar grasa y residuos dificiles en cocinas y superficies.",
+            "precio": 4.25,
+            "disponible": true
+        },
+        {
+            "nombre": "Jabon Liquido para Manos",
+            "descripcion": "Jabon antibacterial con fragancia fresca, ideal para uso diario.",
+            "precio": 1.99,
+            "disponible": true
+        }
+    ]
+}

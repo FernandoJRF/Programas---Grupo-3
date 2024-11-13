@@ -1,0 +1,2 @@
+Archivo: Bosque_encantado.txt - Total de lineas: 26
+Archivo: viaje_de_las_estrella.txt - Total de lineas: 23
